@@ -1,0 +1,8 @@
+0000 goto start(void), intensity: 500
+0001 main_loop
+0010 step mix10 W.E.S.L.E.Y.
+0011 unnamed
+0100 200
+0101 338.9²
+0110 :)
+0111 490
